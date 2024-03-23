@@ -61,9 +61,6 @@ samples, guidance on mobile development, and a full API reference.
 </div>
 
 
-<div align="center">
-<a href="https://github.com/Yash-978/anatomy_flutter_1/assets/147479013/de5a2f56-dbc1-4aba-ba1e-e13d4320c256">-> 📂 Go To Dart File 📂 <-</a>
-</div>
 
 <p align="center">
 <img src="https://github.com/Yash-978/anatomy_flutter_1/assets/147479013/de5a2f56-dbc1-4aba-ba1e-e13d4320c256" width=22% height=35%>
