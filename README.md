@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<p>
+<p aling="center">
 <img src="https://github.com/Yash-978/anatomy_flutter_1/assets/147479013/0933fd07-25c7-4f83-8167-f0f613ce2fd7" width=22% height=35%>
 </p>
 
