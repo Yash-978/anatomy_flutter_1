@@ -1,6 +1,6 @@
 //Lecture 1
 //
-/*
+
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
@@ -150,7 +150,7 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-*/
+
 
 
 /* Lecture 2
@@ -243,6 +243,7 @@ void main()
 */
 
 //Lecture 3 pdf 5.2
+/*
 import 'package:flutter/material.dart';
 
 void main() {
@@ -302,5 +303,5 @@ void main() {
     ),
   );
 }
-
+*/
 
